@@ -68,7 +68,7 @@ Remember to keep these keys secure! Do not share them with anyone or publish the
 
 To run the application, use the following command:
 ```bash
-python main.py
+python joke-tweeter.py
 ```
 
 The script will generate a joke and post it on Twitter.
