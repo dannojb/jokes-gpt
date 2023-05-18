@@ -48,7 +48,7 @@ Remember to keep these keys secure! Do not share them with anyone or publish the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/dannojb/jokes-gpt.git
     ```
 
 2. Navigate into the project directory:
